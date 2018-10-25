@@ -1,4 +1,4 @@
-# Meteor
+# Meteor + Blaze
 JavaScript platforma pre vývoj webových a mobilných aplikácií<br>
 Server - Klient applikácie<br>
 Umožňuje vyvýjať v jednom jazyku pre server, webový prehliadač a mobilné zariadenia<br>
@@ -228,4 +228,10 @@ spustenie
   prístup k dátam po odstránení autopublish: Meteor.subscribe Meteor.publish<br>
   vkladanie a upravovanie dát po odstránení insecure: Meteor.call<br>
   
-  
+  ## Úloha 1
+  Zobraz pri topicu meno autora a dátum vytvorenia.
+  ## Úloha 2
+  Umožni poslať súkromnú správu hocikomu, kto má účet na fóre (teraz môžeš poslať len, tým ktorý sú online, majú odpoveď vo fóre, alebo majú už s tebou začatú komunikáciu)
+  ## Úloha 3
+  Vytvor pod-fóra.<br>
+  Každý topic bude súčasťou nejakého pod-fóra. (optional: pod-fórum môže byť časťou iného pod-fóra)<br>  
