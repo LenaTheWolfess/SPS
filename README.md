@@ -237,6 +237,7 @@ spustenie
   <li>Otvor koreňový priečinok vytvoreného projektu</li>
   <li>Skupíruj doňho všetky súbory aj s priečinkami (client, imports, server, lib) - prepísať existujúce</li>
   <li>Spusti projekt (cmd)</li>
+  <li>Prístup cez webový prehliadač</li>
 </ul>
 ## Ako odovzdať kód
  <ul>
