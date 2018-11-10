@@ -233,7 +233,7 @@ spustenie
   <li>Vytvor prázdny projekt a vojdi do priečinka (cmd)</li>
   <li>Aplikuj príkazy z Použité balíčky (cmd)</li>
   <li>Aplikuj príkazy z Odstránené balíčky (cmd)</li>
-  <li>Stiahni a rozbaľ jeden zo zip súborov</li>
+  <li>Stiahni a rozbaľ jeden zo zip súborov https://github.com/SlavomirSlovenkai/SPS</li>
   <li>Otvor koreňový priečinok vytvoreného projektu</li>
   <li>Skupíruj doňho všetky súbory aj s priečinkami (client, imports, server, lib) - prepísať existujúce</li>
   <li>Spusti projekt (cmd)</li>
