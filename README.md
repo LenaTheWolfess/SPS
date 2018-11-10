@@ -212,26 +212,41 @@ spustenie
  kadrida:blaze-layout - dynamicke renderovanie pre Blaze<br>
 
  ```
- meteor add reactive-dict<br>
- meteor add accounts-ui accounts-password<br>
- meteor add kadira:flow-router<br>
- meteor add kadira:blaze-layout<br>
+ meteor add reactive-dict
+ meteor add accounts-ui accounts-password
+ meteor add kadira:flow-router
+ meteor add kadira:blaze-layout
  ```
  ## Odstránené balíčky
  insecure           - umožňuje upravoanie databázy z klienta<br>
  autopublish        - posiela všetky dáta z databázy klientovi<br>
 
 ```
- meteor remove insecure<br>
- meteor remove autopublish<br>
+ meteor remove insecure
+ meteor remove autopublish
  ```
   prístup k dátam po odstránení autopublish: Meteor.subscribe Meteor.publish<br>
   vkladanie a upravovanie dát po odstránení insecure: Meteor.call<br>
   
+  ## Ako spustiť kód z prednášky
+<ul>
+  <li>Vytvor prázdny projekt a vojdi do priečinka (cmd)</li>
+  <li>Aplikuj príkazy z Použité balíčky (cmd)</li>
+  <li>Aplikuj príkazy z Odstránené balíčky (cmd)</li>
+  <li>Stiahni a rozbaľ jeden zo zip súborov</li>
+  <li>Otvor koreňový priečinok vytvoreného projektu</li>
+  <li>Skupíruj doňho všetky súbory aj s priečinkami (client, imports, server, lib) - prepísať existujúce</li>
+  <li>Spusti projekt (cmd)</li>
+</ul>
+## Ako odovzdať kód
+ <ul>
+    <li>Skupíruj všetky súbory aj s priečinkami (client, imports, server, lib)</li>
+</ul>
+   
   ## Úloha 1
   Zobraz pri topicu meno autora a dátum vytvorenia.
   ## Úloha 2
   Umožni poslať súkromnú správu hocikomu, kto má účet na fóre (teraz môžeš poslať len, tým ktorý sú online, majú odpoveď vo fóre, alebo majú už s tebou začatú komunikáciu)
-  ## Úloha 3
-  Vytvor pod-fóra.<br>
-  Každý topic bude súčasťou nejakého pod-fóra. (optional: pod-fórum môže byť časťou iného pod-fóra)<br>  
+  ## Úloha 3 (dokončiť)
+  Vytvor pod-fóra a zachovaj funkcionalitu pre topic.<br>
+  Každý topic bude súčasťou nejakého pod-fóra. (optional: pod-fórum môže byť časťou iného pod-fóra)<br> 
